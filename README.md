@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-![Hey there, I'm Mohamed amine KHAMMOUR.  Future Devops engineer, web developer and data engineer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 
 <!--
 **amine1956/amine1956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
