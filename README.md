@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+<a href="https://www.linkedin.com/in/mohamed-amine-khammour">![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amine1956&show_icons=true&theme=radical)
