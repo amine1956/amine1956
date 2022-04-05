@@ -1,12 +1,13 @@
 
 ### Hi there 👋
-# I'm Mohamed amine KHAMMOUR, Computer engineering student at ENSET-M , Future data engineer and a web developer.
+![Hey there, I'm Mohamed amine KHAMMOUR.  Future Devops engineer, web developer and data engineer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <!--
 **amine1956/amine1956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
