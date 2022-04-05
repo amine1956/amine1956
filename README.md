@@ -8,6 +8,7 @@
 Here are some ideas to get you started:
 -->
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,6 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Mohamed amine KHAMMOUR](https://activity-graph.herokuapp.com/graph?username=amine1956&theme=xcode)](https://git.io/khushi0321)
 
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
@@ -49,6 +53,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/hgdsandakalum">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amine1956&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
-</a>
+  
+</a>[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 
 <p> <img src="https://komarev.com/ghpvc/?username=amine1956&color=red" alt="alif338"> </p>
+
+
