@@ -1,4 +1,5 @@
 ### Hi there 👋
+# I'm Mohamed amine KHMMOUR, Computer engineering student at ENSET-M , Future data engineer and a web developer.
 
 <!--
 **amine1956/amine1956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
