@@ -43,10 +43,12 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mohamed-amine-khammour">![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amine1956&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amine1956&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=vue-dark" alt="GitHub Stats">
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=amine1956&theme=gotham)
+## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+<a href="https://github.com/hgdsandakalum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine1956&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+</a>
+<a href="https://github.com/hgdsandakalum">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amine1956&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
+</a>
 
 <p> <img src="https://komarev.com/ghpvc/?username=amine1956&color=red" alt="alif338"> </p>
