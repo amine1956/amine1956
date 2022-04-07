@@ -1,5 +1,6 @@
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"> <p> <img src="https://komarev.com/ghpvc/?username=amine1956&color=red" alt="alif338"> </p>
 
-### Hi there 👋
+
 <h1>I'm Mohamed amine KHAMMOUR, Computer engineering student at ENSET-M , Future Devops engineer and a web developer and data engineer.</h1>
 
 <!--
@@ -7,7 +8,6 @@
 
 Here are some ideas to get you started:
 -->
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-[![Mohamed amine KHAMMOUR](https://activity-graph.herokuapp.com/graph?username=amine1956&theme=xcode)](https://git.io/khushi0321)
-
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
@@ -54,9 +50,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/hgdsandakalum">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amine1956&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dananjaya's github stats" height="220px" />
   
-</a>[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+</a>
 
 
-<p> <img src="https://komarev.com/ghpvc/?username=amine1956&color=red" alt="alif338"> </p>
+## 🏃 Contribution 
+[![Mohamed amine KHAMMOUR](https://activity-graph.herokuapp.com/graph?username=amine1956&theme=xcode)](https://git.io/khushi0321)
+
 
 
