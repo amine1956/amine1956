@@ -1,4 +1,5 @@
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"> <p> <img src="https://komarev.com/ghpvc/?username=amine1956&color=red" alt="alif338"> </p>
+ <body style="=color: blue">
+ <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%"> <p> <img src="https://komarev.com/ghpvc/?username=amine1956&color=red" alt="alif338"> </p>
 
 
 <h1>I'm Mohamed amine KHAMMOUR, Computer engineering student at ENSET-M , Future Devops engineer and a web developer and data engineer.</h1>
@@ -58,3 +59,4 @@ Here are some ideas to get you started:
 
 
 
+</body>
