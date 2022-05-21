@@ -9,6 +9,7 @@
 
 Here are some ideas to get you started:
 -->
+ <il>
  <img width="55%" align="right" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
  
 - 🔭 I’m currently working on ...
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
+ </il>
  
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
