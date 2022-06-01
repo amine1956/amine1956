@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 <a href="https://www.linkedin.com/in/mohamed-amine-khammour">![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
+<a href="khammmour.vercel.app">![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/hgdsandakalum">
