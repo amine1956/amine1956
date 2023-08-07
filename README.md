@@ -12,9 +12,4 @@ Here are some ideas to get you started:
  
  <img width="55%" align="left"  alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 
-
-## 🏃 Contribution 
-[![Mohamed amine KHAMMOUR](https://activity-graph.herokuapp.com/graph?username=amine1956&theme=xcode)](https://git.io/khushi0321)
-
-
 </body>
